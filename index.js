@@ -1,5 +1,5 @@
 let userName = window.prompt('Please enter your name:')
-window.alert('Please answer all questions with uppercase charactors')
+window.alert('Please answer all questions with uppercase characters')
 
 let userScore = 0
 for(let i = 0; i < questions.length; i++){
