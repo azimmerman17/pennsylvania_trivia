@@ -36,7 +36,7 @@ let questions = [
         A. West Virginia
         B. New Jersey
         C. Maryland
-        D. Viringia`,
+        D. Virginia`,
       correctAnswer: "D"
     },
     {
