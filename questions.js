@@ -32,7 +32,7 @@ let questions = [
       correctAnswer: "D"
     },
     {
-      text: `Which state does not border Pennsyylvania
+      text: `Which state does not border Pennsylvania?
         A. West Virginia
         B. New Jersey
         C. Maryland
